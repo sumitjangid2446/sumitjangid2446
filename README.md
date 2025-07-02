@@ -3,9 +3,6 @@ A passionate web developer from India 🇮🇳
 
 
 
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjangid2446&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🏆 My GitHub Trophies
