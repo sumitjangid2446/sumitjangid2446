@@ -10,13 +10,12 @@ A passionate web developer from India 🇮🇳
 
 ---
 
-## 🔧 Skills
+## 🧠 Tech Stack / Skills
 - HTML
 - CSS
 - Bootstrap
-- JavaScript (Learning)
-- C & C++
-
+- JavaScript
+- C, C++
 ---
 
 ## 🚀 Projects
