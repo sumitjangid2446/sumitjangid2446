@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Sumit 
+# Hi, I'm Sumit 
 A passionate web developer from India 🇮🇳
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
