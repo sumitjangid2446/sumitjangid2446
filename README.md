@@ -1,4 +1,4 @@
-# Hi, I'm Sumit Jangid
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bb63037d-896d-43ce-aa4b-b525c3af5f61" /># Hi, I'm Sumit Jangid
 A passionate web developer from India 🇮🇳
 
 
@@ -22,6 +22,9 @@ A passionate web developer from India 🇮🇳
 - 🍔 The Food Point  
 - 🪑 Furniture Websites  
 - 🎮 JavaScript Mini Projects
+- 🧮 Simple Calculatore
+- 📝 To-do list
+- 
 
 ---
 
