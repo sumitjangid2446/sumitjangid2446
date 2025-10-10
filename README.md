@@ -26,7 +26,7 @@ A passionate web developer from India 🇮🇳
 - 📝 To-do list
 - 🔢 OTP-Genratore
 - 🧾Bill-Genratore
-- BMI Calculate 
+- 🧮BMI Calculate 
 ---
 
 ## 📊 GitHub Stats
