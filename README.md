@@ -24,8 +24,9 @@ A passionate web developer from India 🇮🇳
 - 🎮 JavaScript Mini Projects
 - 🧮 Simple Calculatore
 - 📝 To-do list
-- 
-
+- 🔢 OTP-Genratore
+- 🧾Bill-Genratore
+- BMI Calculate 
 ---
 
 ## 📊 GitHub Stats
