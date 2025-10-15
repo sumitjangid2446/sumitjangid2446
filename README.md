@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bb63037d-896d-43ce-aa4b-b525c3af5f61" /># Hi, I'm Sumit Jangid
+Hi, I'm Sumit Jangid
 A passionate web developer from India 🇮🇳
 
 
