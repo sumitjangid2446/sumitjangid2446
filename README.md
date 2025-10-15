@@ -15,8 +15,8 @@ A passionate web developer from India 🇮🇳
 - CSS
 - Bootstrap
 - JavaScript
-- C, C++
----
+- C
+- C++
 
 ## 🚀 Projects
 - 🍔 The Food Point  
