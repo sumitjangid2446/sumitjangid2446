@@ -68,7 +68,6 @@ and **real-world front-end project development**.
 ### ✨ Code with clarity, design with emotion  
 **Creating web experiences that feel alive**
 
-    </td>
   </tr>
 </table>
 
