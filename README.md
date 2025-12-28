@@ -11,13 +11,13 @@
 
 ## 🌟 About Me
 <p align="center">
-  I'm a <b style="color:#ff9a3c;">creative developer</b> crafting <b style="color:#32e0c4;">stylish, interactive, and aesthetic projects</b> using modern web technologies.  
-  Passionate about <b style="color:#7d5fff;">design, gradients, and neon effects</b> ✨
+  Hi! Main <b style="color:#ff9a3c;">Sumit</b> hoon — ek passionate <b style="color:#32e0c4;">Web Developer</b> jo modern aur stylish projects banata hai.  
+  Mujhe <b style="color:#7d5fff;">creative coding, neon design aur gradient UI</b> bahut pasand hai.  
 </p>
 
-- 🌱 Currently learning **Advanced JS, React & TailwindCSS**  
-- 🎯 Goal: Make **GitHub ultra-stylish & professional**  
-- ⚡ Fun Fact: I love experimenting with **gradients, neon colors & hover effects**  
+- 🌱 Currently learning: **<span style="color:#ff6ec7;">Advanced JS</span>, <span style="color:#32e0c4;">React</span>, <span style="color:#7d5fff;">TailwindCSS</span>**  
+- 🎯 Goal: **GitHub ko ultra-stylish aur professional banana**  
+- ⚡ Fun Fact: Gradients, neon colors aur hover effects try karna mera favorite hobby hai  
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%"/>
@@ -49,8 +49,24 @@
 
 ---
 
+## 💡 My Mission
 <p align="center">
   <span style="background: linear-gradient(90deg, #ff6ec7, #32e0c4, #7d5fff); -webkit-background-clip: text; color: transparent;">
-    "Code with style. Live in color. 🚀✨"
+    "Code stylishly, create creatively & inspire everyone! 🚀✨"
   </span>
+</p>
+
+---
+
+## 🔗 Portfolio Highlights
+<p align="center">
+  <b style="color:#ff6ec7;">Project 1:</b> Stylish interactive web app <br/>
+  <b style="color:#32e0c4;">Project 2:</b> Gradient UI mini-game <br/>
+  <b style="color:#7d5fff;">Project 3:</b> Neon-themed personal website
+</p>
+
+---
+
+<p align="center">
+  <i style="color:#ff9a3c;">"Making GitHub portfolios ultra-stylish, colorful, and unique!"</i>
 </p>
