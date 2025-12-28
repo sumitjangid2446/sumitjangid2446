@@ -37,4 +37,6 @@ Here are some of my web projects:
 
 ---
 
-✨ <span style="color:#00ffcc">"Code with passion, build with style."</span>  
+## ✨ Motto
+
+![Neon Motto](https://img.shields.io/badge/"Code_with_passion,_build_with_style"-brightgreen?style=for-the-badge&logo=&logoColor=white)  
