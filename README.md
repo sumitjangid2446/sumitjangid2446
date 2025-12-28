@@ -68,7 +68,6 @@ and **real-world front-end project development**.
 
 <font color="#00fff7"><b>✨ Code with clarity, design with emotion</b></font>  
 <font color="#9ca3af">Creating web experiences that feel alive</font>
-
     </td>
   </tr>
 </table>
