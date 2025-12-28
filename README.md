@@ -20,12 +20,16 @@
 
 ## ✨ About Me  
 
-I am a **BCA 2nd Year student** and a **front-end web developer**.  
-I focus on creating **clean, modern, and responsive web interfaces**.
+I am a **BCA 2nd Year student** and a **passionate front-end web developer**  
+focused on crafting **clean, modern, and responsive web interfaces**.  
 
-I have hands-on experience in building **real-world front-end projects**  
-that involve **interactive UI, responsive design, and smooth animations**.  
-I also apply my knowledge in **C and C++ programming** for logic and problem-solving tasks.
+I have experience building **real-world projects** that include:  
+- **Interactive UI components** with smooth animations  
+- **Responsive layouts** that work on all devices  
+- Applying **C and C++ programming** knowledge for logical problem-solving  
+
+My goal is to combine **academic learning** with **hands-on project experience**  
+to deliver **professional-quality websites and applications**.
 
 
 ---
