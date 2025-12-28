@@ -29,7 +29,7 @@ and **real-world front-end project development**.
 ## 🚀 Skills & Technologies  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,cpp," />
 </p>
 
 - **HTML5** – Semantic structure & accessibility  
@@ -38,7 +38,6 @@ and **real-world front-end project development**.
 - **Bootstrap 5** – Mobile-first UI development  
 - **jQuery** – Simplified DOM handling  
 - **C++** – Programming fundamentals  
-- **Git & GitHub** – Version control & collaboration  
 
 ---
 
