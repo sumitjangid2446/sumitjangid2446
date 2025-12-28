@@ -20,14 +20,18 @@
 
 ## ✨ About Me  
 
-I am a **passionate front-end web developer** focused on creating  
-**clean, modern, and visually appealing web interfaces**.  
+I am a **BCA 2nd Year student** and a **passionate front-end web developer**.  
+I focus on creating **clean, modern, and visually appealing web interfaces** that are both functional and user-friendly.
 
-I enjoy turning ideas into interactive web experiences using  
-simple, efficient, and well-structured code.
+Currently, I am pursuing my BCA degree while actively learning and practicing:  
+- **Web Development:** HTML5, CSS3, JavaScript, Bootstrap 5, jQuery  
+- **Programming Languages:** C, C++  
+- **UI/UX Design:** Responsive layouts, modern design principles, smooth animations  
 
-Currently, I am improving my skills in **JavaScript**, **UI/UX design**,  
-and **real-world front-end project development**.
+Alongside my studies, I work on **real-world front-end projects** to strengthen my practical experience, improve problem-solving skills, and stay updated with the latest web technologies.  
+
+My goal is to **combine my academic knowledge with hands-on coding experience** to build professional-quality websites and applications.
+
 
 ---
 
