@@ -23,13 +23,9 @@
 I am a **BCA 2nd Year student** and a **front-end web developer**.  
 I focus on creating **clean, modern, and responsive web interfaces**.
 
-Currently, I am learning and practicing:  
-- **HTML5, CSS3, JavaScript, Bootstrap 5, jQuery**  
-- **C and C++ programming**  
-- **UI/UX Design and Responsive layouts**  
-
-I also work on **real-world front-end projects** to enhance my skills and apply my knowledge practically.
-
+I have hands-on experience in building **real-world front-end projects**  
+that involve **interactive UI, responsive design, and smooth animations**.  
+I also apply my knowledge in **C and C++ programming** for logic and problem-solving tasks.
 
 
 ---
