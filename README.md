@@ -1,23 +1,24 @@
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sumit Jangid</h1>
-<h3 align="center">A Passionate Frontend & Web Developer | C++ Enthusiast | JS Explorer</h3>
+<h1 align="center">Hey 👋, I'm Sumit Jangid</h1>
+<h3 align="center">Frontend Web Developer | JS & C++ Enthusiast | Creating Interactive & Stylish Web Experiences</h3>
 
 ---
 
 ## 💼 About Me
-- 🔭 I’m currently working on **web projects with HTML, CSS, JavaScript, jQuery & Bootstrap 5**  
-- 🌱 I’m learning advanced **JavaScript, DOM Manipulation, and Web Animations**  
-- 👯 I’m looking to collaborate on **creative web projects**  
-- 💬 Ask me about **HTML, CSS, JS, C++, and web development**  
-- ⚡ Fun fact: I love turning **ideas into interactive websites**  
+- 🔭 Currently working on **Web Projects with HTML, CSS, JavaScript, jQuery & Bootstrap 5**  
+- 🌱 Learning **Advanced JS, DOM Manipulation & Web Animations**  
+- 👯 Open to collaborate on **creative web projects**  
+- 💬 Ask me about **HTML, CSS, JS, C++, and Web Development**  
+- ⚡ Fun fact: I turn ideas into **interactive websites**  
 
 ---
 
-## 🛠 Skills
-<p align="left">
+## 🛠 My Skills
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,10 +29,10 @@
 
 ---
 
-## 🌐 Web Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Portfolio Website | Stylish personal portfolio with animations | [View](https://github.com/yourusername/portfolio) |
+## 🌐 My Projects
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Portfolio Website** | Stylish personal portfolio with animations | [Live](https://yourusername.github.io/portfolio) |
 
 ---
 
@@ -50,9 +51,24 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</p>
+
+---
+
 ## 💡 Motto
 <p align="center">
-  <span style="background-color:#39FF14; color:black; padding:5px 10px; border-radius:5px;">
+  <span style="background-color:#39FF14; color:black; padding:8px 15px; border-radius:10px; font-weight:bold;">
     "Code. Create. Inspire. Repeat."
   </span>
+</p>
+
+---
+
+## 🖤 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/yourusername/count.svg" />
 </p>
