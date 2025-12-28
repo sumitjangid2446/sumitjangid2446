@@ -29,14 +29,15 @@ and **real-world front-end project development**.
 ## 🚀 Skills & Technologies  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,cpp," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,c,cpp," />
 </p>
 
 - **HTML5** – Semantic structure & accessibility  
 - **CSS3** – Responsive design, animations & effects  
 - **JavaScript** – DOM manipulation, events & logic  
 - **Bootstrap 5** – Mobile-first UI development  
-- **jQuery** – Simplified DOM handling  
+- **jQuery** – Simplified DOM handling
+- - **C** – Core programming fundamentals & memory concepts
 - **C++** – Programming fundamentals  
 
 ---
