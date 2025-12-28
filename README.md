@@ -62,15 +62,11 @@ and **real-world front-end project development**.
 > _Consistency and practice are the foundations of mastery._
 
 ---
-<table align="center">
-  <tr>
-    <td align="center">
-
-<font color="#22d3ee"><b>“First, solve the problem.</b></font>  
-<font color="#22d3ee"><b>Then, write the code.”</b></font>  
-
+<p align="center">
+<img src="https://img.shields.io/badge/First_solve_the_problem-Then_write_the_code-22d3ee?style=for-the-badge" />
+</p>
+<p align="center">
 <font color="#9ca3af">— John Johnson</font>
+</p>
 
-  </tr>
-</table>
 
