@@ -63,7 +63,7 @@ and **real-world front-end project development**.
 > _Consistency and practice are the foundations of mastery._
 
 ---
-<p align="center">
+<p align="end">
 <font color="#38f8ff">“First, solve the problem. Then, write the code.”</font><br/>
 <font color="#6b7280">— John Johnson</font>
 </p>
