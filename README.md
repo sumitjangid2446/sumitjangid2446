@@ -66,8 +66,8 @@ and **real-world front-end project development**.
   <tr>
     <td align="center">
 
-### ✨ Code with clarity, design with emotion  
-**Creating web experiences that feel alive**
+### ✨ "First, solve the problem. Then, write the code."
+**                                   - John Johnson.**
 
   </tr>
 </table>
