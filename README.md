@@ -66,11 +66,10 @@ and **real-world front-end project development**.
   <tr>
     <td align="center">
 
-### ✨ Code with clarity, design with emotion  
-**Creating web experiences that feel alive**
-
+<span style="color:#00fff7;"><b>✨ Code with clarity, design with emotion</b></span>  
+<span style="color:#9ca3af;">Creating web experiences that feel alive</span>
+    </td>
   </tr>
 </table>
-
 
 
