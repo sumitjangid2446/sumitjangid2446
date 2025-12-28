@@ -1,72 +1,62 @@
+# Hi, I'm Sumit Jangid 👋
+
 <p align="center">
-  <h1>
-    <span style="background: linear-gradient(90deg, #ff6ec7, #32e0c4, #7d5fff); -webkit-background-clip: text; color: transparent;">
-      Sumit Jangid
-    </span>
-  </h1>
-  <p><i style="color:#ff6ec7;">💻 Web Developer | 🎨 UI/UX Designer | 🚀 Tech Explorer | 🎮 Mini Game Creator</i></p>
+  [![Visits Badge](https://badges.pufler.dev/visits/sumitjangid/sumitjangid)](https://sumitjangid.dev)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/yourtwitter)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yourlinkedin)
+  [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/yourcodepen)
 </p>
 
 ---
 
-## 🌟 About Me
-<p align="center">
-  Hi! Main <b style="color:#ff9a3c;">Sumit</b> hoon — ek passionate <b style="color:#32e0c4;">Web Developer</b> jo modern aur stylish projects banata hai.  
-  Mujhe <b style="color:#7d5fff;">creative coding, neon design aur gradient UI</b> bahut pasand hai.  
-</p>
+## 📌 Pinned Projects
 
-- 🌱 Currently learning: **<span style="color:#ff6ec7;">Advanced JS</span>, <span style="color:#32e0c4;">React</span>, <span style="color:#7d5fff;">TailwindCSS</span>**  
-- 🎯 Goal: **GitHub ko ultra-stylish aur professional banana**  
-- ⚡ Fun Fact: Gradients, neon colors aur hover effects try karna mera favorite hobby hai  
+<a href="https://github.com/sumitjangid/project1">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjangid&repo=project1&theme=radical" />
+</a>
 
----
+<a href="https://github.com/sumitjangid/project2">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjangid&repo=project2&theme=radical" />
+</a>
 
-## 🛠️ Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+<a href="https://github.com/sumitjangid/project3">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjangid&repo=project3&theme=radical" />
+</a>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%"/>
-</p>
+## 📊 GitHub Stats
+
+<a href="https://github.com/sumitjangid">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sumitjangid&show_icons=true&theme=radical&count_private=true" />
+</a>
+
+<a href="https://github.com/sumitjangid">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjangid&layout=compact&theme=radical" />
+</a>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram"/></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/></a>
-</p>
+## 🛠 Skills
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+
+<details>
+<summary>More Skills</summary>
+
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwind-css&logoColor=white&color=38B2AC)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
+![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=stylus&logoColor=white&color=4AB197)
+
+</details>
 
 ---
 
-## 💡 My Mission
+## 💡 Daily Quote
 <p align="center">
-  <span style="background: linear-gradient(90deg, #ff6ec7, #32e0c4, #7d5fff); -webkit-background-clip: text; color: transparent;">
-    "Code stylishly, create creatively & inspire everyone! 🚀✨"
-  </span>
-</p>
-
----
-
-## 🔗 Portfolio Highlights
-<p align="center">
-  <b style="color:#ff6ec7;">Project 1:</b> Stylish interactive web app <br/>
-  <b style="color:#32e0c4;">Project 2:</b> Gradient UI mini-game <br/>
-  <b style="color:#7d5fff;">Project 3:</b> Neon-themed personal website
-</p>
-
----
-
-<p align="center">
-  <i style="color:#ff9a3c;">"Making GitHub portfolios ultra-stylish, colorful, and unique!"</i>
+  "Keep coding stylishly and creatively!"  
 </p>
