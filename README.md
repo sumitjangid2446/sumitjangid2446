@@ -1,40 +1,63 @@
-<!-- 👋 Introduction Section -->
-# <span style="color:#00ffcc">Hi there, I'm Sumit Jangid 👋</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status Badge">
+</p>
 
-✨ **Web Developer | JS & C++ Enthusiast | Open Source Explorer** ✨  
+<h1 align="center">Hi 👋, I'm Sumit Jangid</h1>
+<h3 align="center">Creative Web & Software Developer</h3>
 
-I love building **interactive and stylish web projects** using modern technologies. Learning new things every day and sharing knowledge with the world.  
-
----
-
-## 🛠️ <span style="color:#ff6f61">Skills & Tools</span>
-
-**Languages:**  
-<span style="color:#f7df1e">HTML</span>, <span style="color:#264de4">CSS</span>, <span style="color:#00599c">C</span>, <span style="color:#f34b7d">C++</span>, <span style="color:#f0db4f">JavaScript</span>  
-
-**Libraries & Frameworks:**  
-<span style="color:#0769ad">jQuery</span>, <span style="color:#563d7c">Bootstrap 5</span>  
-
-**Other Interests:**  
-Web Development, UI/UX Design, Creative Projects  
-
----
-
-## 🚀 <span style="color:#ff6f61">Projects</span>
-
-Here are some of my web projects:  
-
-- **[Stylish Portfolio](https://github.com/YourGitHubUsername/stylish-portfolio)** – A modern personal portfolio with animations.  
-- **[Love Puzzle Game](https://github.com/YourGitHubUsername/love-puzzle)** – Interactive puzzle game in JS.  
+<p align="center">
+  <a href="https://github.com/sumit-jangid" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sumit-jangid?style=social">
+  </a>
+  <a href="https://www.linkedin.com/in/sumit-jangid/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sumit-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://www.instagram.com/sumit_jangid/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Sumit-purple?style=flat&logo=instagram">
+  </a>
+</p>
 
 ---
 
-## 📫 <span style="color:#ff6f61">Connect with Me</span>
+## 👨‍💻 About Me
+I'm a **web & software enthusiast**. I enjoy creating **interactive and stylish projects** using **HTML, CSS, JavaScript, C++, jQuery, and Bootstrap 5**. I focus on **creative UI designs** and smooth functionality.  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sumit-black?style=flat-square&logo=github)](https://github.com/YourGitHubUsername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YourLinkedIn/)  
-[![Mail](https://img.shields.io/badge/Mail-Sumit-red?style=flat-square&logo=gmail)](mailto:YourEmail@example.com)  
+- 🌱 Currently improving **JS & DOM Projects**  
+- 💻 Tech Stack: HTML | CSS | JavaScript | C++ | jQuery | Bootstrap 5  
+- 🌐 I have made **2 web projects**  
 
 ---
 
-## ✨ <span style="background:linear-gradient(90deg, #00ffea, #ff00ff, #ffea00); -webkit-background-clip:text; color:transparent; font-weight:bold; font-size:20px;">"Code with passion, build with style" ✨💻</span>
+## 🛠️ Skills
+**Languages & Tools:**  
+HTML | CSS | JavaScript | C++ | jQuery | Bootstrap 5 | VS Code | Git & GitHub  
+
+---
+
+## ✨ My Projects
+<p align="center">
+  <kbd>
+  <img src="https://via.placeholder.com/200x100.png?text=Web+Project+1" alt="Project 1"/>
+  </kbd>
+  <kbd>
+  <img src="https://via.placeholder.com/200x100.png?text=Web+Project+2" alt="Project 2"/>
+  </kbd>
+</p>
+
+- **Web Project 1** – Stylish interactive webpage using HTML, CSS & JS. [View Here](#)  
+- **Web Project 2** – Creative mini-project showcasing JS & Bootstrap5. [View Here](#)  
+
+> More projects will be added soon! Check my [GitHub repositories](https://github.com/sumit-jangid) for updates.  
+
+---
+
+## 📫 Contact Me
+- Email: sumitjangid@example.com  
+- LinkedIn: [Sumit Jangid](https://www.linkedin.com/in/sumit-jangid/)  
+- Instagram: [@sumit_jangid](https://www.instagram.com/sumit_jangid/)  
+
+---
+
+<p align="center" style="background-color:#0ff;color:#000;padding:12px;border-radius:12px;">
+  <strong>“Coding is my canvas, and every project is a masterpiece!”</strong>
+</p>
