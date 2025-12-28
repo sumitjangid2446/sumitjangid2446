@@ -37,7 +37,7 @@ and **real-world front-end project development**.
 - **JavaScript** – DOM manipulation, events & logic  
 - **Bootstrap 5** – Mobile-first UI development  
 - **jQuery** – Simplified DOM handling
-- - **C** – Core programming fundamentals & memory concepts
+- **C** – Core programming fundamentals & memory concepts
 - **C++** – Programming fundamentals  
 
 ---
