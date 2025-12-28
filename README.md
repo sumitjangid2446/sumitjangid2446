@@ -67,7 +67,7 @@ and **real-world front-end project development**.
     <td align="center">
 
 ### ✨ "First, solve the problem. Then, write the code."
-**                                   - John Johnson.**
+                                    - John Johnson.
 
   </tr>
 </table>
