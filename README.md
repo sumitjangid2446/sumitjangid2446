@@ -1,14 +1,19 @@
 <!-- ================================= -->
 <!--        PERSONAL GITHUB README     -->
 <!-- ================================= -->
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Sumit%20Jangid&fontSize=45&fontColor=ffffff" /> 
-  </p> 
-<h1 align="center"> Hi, I'm Sumit Jangid</h1>
-<h3 align="center">Front-End Web Developer | Creative Learner</h3>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Sumit%20Jangid&fontSize=46&fontColor=ffffff&animation=fadeIn" 
+  />
+</p>
+
+<h1 align="center">Hi, I'm Sumit Jangid 👋</h1>
+<h3 align="center">Front-End Web Developer • Creative Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Designing+Clean+%26+Modern+Web+Interfaces;HTML+CSS+JavaScript+Developer;Learning+Every+Day+%7C+Building+with+Passion" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Designing+Clean+%26+Modern+Web+Interfaces;HTML+CSS+JavaScript+Focused;Learning+Daily+%7C+Building+with+Purpose" 
+  />
 </p>
 
 ---
