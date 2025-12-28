@@ -1,8 +1,10 @@
 <!-- ================================= -->
 <!--        PERSONAL GITHUB README     -->
 <!-- ================================= -->
-
-<h1 align="center">👋 Hi, I'm Sumit Jangid</h1>
+{<p align="center"> }
+  {<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Sumit%20Jangid&fontSize=45&fontColor=ffffff" /> }
+ { </p>  }
+<h1 align="center"> Hi, I'm Sumit Jangid</h1>
 <h3 align="center">Front-End Web Developer | Creative Learner</h3>
 
 <p align="center">
