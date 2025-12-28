@@ -61,17 +61,16 @@ and **real-world front-end project development**.
 > _Consistency and practice are the foundations of mastery._
 
 ---
-<h2 style="
-background:#111827;
-color:#e5e7eb;
-padding:18px;
-border-radius:14px;
-font-weight:500;
-">
-Code with clarity, design with emotion  
-<br/>
-Creating web experiences that feel alive
-</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+
+### ✨ Code with clarity, design with emotion  
+**Creating web experiences that feel alive**
+
+    </td>
+  </tr>
+</table>
 
 
 
