@@ -7,7 +7,7 @@
   />
 </p>
 
-<h1 align="center">Hi, I'm Sumit Jangid 👋</h1>
+<h1 align="center">Hi, I'm Sumit Jangid </h1>
 <h3 align="center">Front-End Web Developer • Creative Learner</h3>
 
 <p align="center">
