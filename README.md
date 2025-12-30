@@ -70,10 +70,23 @@ and **learning through real implementation**.
 
 ---
 
-## Principle  
+<div align="center">
 
-> **“Simplicity is the soul of efficient code.”**
+<table style="width:95%; border-radius:16px;
+border:1px solid rgba(56,248,255,0.35);
+background:rgba(13,17,23,0.6);
+backdrop-filter:blur(6px);">
+<tr>
+<td style="padding:26px">
 
+<h3 align="center">About Me</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&section=footer&text=Build+Clean+•+Think+Clear+•+Grow+Daily&fontSize=20&fontColor=38F8FF" />
+Building clean, responsive, user-friendly web interfaces.
 </p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
