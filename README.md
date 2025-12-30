@@ -1,79 +1,80 @@
-<!-- ================================================= -->
-<!--            PROFESSIONAL GITHUB README             -->
-<!-- ================================================= -->
+<!-- =================================================== -->
+<!--        ELITE PROFESSIONAL GITHUB README             -->
+<!-- =================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=230&section=header&text=Sumit%20Jangid&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=240&section=header&text=Sumit%20Jangid&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Front-End Web Developer • BCA Student</h2>
+<h2 align="center">Front-End Web Developer</h2>
+<p align="center"><sub>BCA Student • UI Focused • Growth Driven</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Clean+%26+Modern+UI+Development;HTML+CSS+JavaScript+Specialist;Responsive+Design+Focused;Learning+Every+Day+%7C+Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+Modern+%26+Scalable+UI;HTML+CSS+JavaScript+Expertise;Clean+Code+%7C+Better+UX;Learning+By+Building+Real+Projects" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 🧠 Professional Summary  
 
-I’m **Sumit Jangid**, a **BCA 2nd Year student** and a **Front-End Web Developer**  
-who loves building **clean, modern, and responsive web experiences**.
+I’m **Sumit Jangid**, a **BCA 2nd Year student** and a  
+**Front-End Web Developer** who focuses on creating  
+**high-quality, responsive, and user-centric web interfaces**.
 
-I focus on:
-- Writing **well-structured and readable code**
-- Creating **interactive and smooth UI animations**
-- Designing **mobile-friendly layouts**
-- Applying **C & C++ logic** for strong problem-solving
+I don’t just build websites —  
+I focus on **structure, performance, and user experience**.
 
-I believe in **learning by building**, not just watching tutorials.
+I strongly believe:
+> _Good UI attracts users, great UX keeps them._
 
 ---
 
-## 🛠 Tech Stack  
+## ⚙️ Technical Skills  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,c,cpp" />
 </p>
 
-| Technology | Usage |
-|-----------|-------|
-| **HTML5** | Semantic structure & accessibility |
-| **CSS3** | Responsive layouts, animations |
-| **JavaScript** | DOM, events, logic |
-| **Bootstrap 5** | Fast & responsive UI |
-| **jQuery** | Simplified DOM handling |
-| **C** | Core programming & memory basics |
-| **C++** | Logic & problem-solving |
+**Front-End**
+- HTML5 (Semantic & SEO friendly)
+- CSS3 (Responsive design, animations)
+- JavaScript (DOM, events, logic)
+- Bootstrap 5 (Fast UI development)
+- jQuery (DOM & effects)
+
+**Programming Foundation**
+- C (Core logic & memory concepts)
+- C++ (Problem-solving mindset)
 
 ---
 
-## 🎯 What I Focus On  
+## 🧩 What I Actually Do  
 
-✔ Clean & maintainable code  
-✔ Responsive design for all devices  
-✔ Smooth animations & transitions  
-✔ Consistent UI/UX  
-✔ Continuous improvement  
+✔ Design clean UI layouts  
+✔ Convert ideas into responsive pages  
+✔ Build interactive components  
+✔ Improve user experience  
+✔ Learn → Apply → Improve  
 
----
-
-## 📚 Currently Learning  
-
-- Advanced JavaScript concepts  
-- Modern CSS layouts (Flexbox & Grid)  
-- UI/UX design principles  
-- Real-world project structuring  
-- Professional GitHub workflow  
+_No copy-paste developer mindset._
 
 ---
 
-## 🌱 Mindset  
+## 📈 Growth & Learning  
 
-> **“First, solve the problem. Then, write the code.”**  
-> <sub>— John Johnson</sub>
+Currently improving:
+- Advanced JavaScript logic  
+- Modern CSS (Flexbox, Grid, animations)  
+- UI/UX design consistency  
+- Real-world project structure  
+- GitHub & version control workflow  
 
 ---
+
+## 🧭 Developer Philosophy  
+
+> **“Code should be simple, readable, and purposeful.”**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=90&section=footer&text=Learning+%7C+Building+%7C+Improving&fontSize=22&fontColor=38f8ff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,100:020024&height=100&section=footer&text=Build+Clean+UI+•+Write+Better+Code+•+Grow+Daily&fontSize=22&fontColor=00E5FF" />
 </p>
