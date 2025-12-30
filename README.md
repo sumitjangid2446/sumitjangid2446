@@ -1,5 +1,5 @@
 <!-- ================================= -->
-<!--   CLEAN PREMIUM GITHUB README     -->
+<!--   PROFESSIONAL • CLEAN README     -->
 <!-- ================================= -->
 
 <p align="center">
@@ -14,53 +14,52 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=38F8FF&center=true&vCenter=true&width=700&lines=Clean+and+Modern+UI+Development;Responsive+Web+Interfaces;HTML+CSS+JavaScript+Focused;Learning+by+Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=38F8FF&center=true&vCenter=true&width=700&lines=Clean+Modern+UI+Development;Responsive+Web+Interfaces;HTML+CSS+JavaScript+Focused;Learning+by+Building+Real+Projects" />
 </p>
 
 ---
 
-## 👋 About Me  
+## About Me  
 
 I am a **BCA 2nd Year student** and a **front-end web developer**  
-focused on creating **clean, modern, and responsive user interfaces**.
+focused on crafting **clean, modern, and responsive web interfaces**.
 
-I enjoy:
-- Building interactive UI components with smooth animations  
-- Designing layouts that work perfectly across all devices  
-- Using **C and C++ fundamentals** to improve logical thinking  
+I work on:
+- Interactive UI components with smooth animations  
+- Fully responsive layouts across devices  
+- Logical problem-solving using **C & C++ fundamentals**  
 
-My goal is to combine **academic knowledge** with  
-**real-world project experience** to deliver professional web solutions.
+My goal is to blend **academic learning** with **hands-on projects**  
+to build **reliable and professional web solutions**.
 
 ---
 
-## 🛠 Skills & Technologies  
+## Skills & Technologies  
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,c,cpp" />
 </p>
 
 - **HTML5** — Semantic structure & accessibility  
-- **CSS3** — Responsive layouts, animations & effects  
+- **CSS3** — Responsive design, animations & effects  
 - **JavaScript** — DOM manipulation, events & logic  
 - **Bootstrap 5** — Mobile-first UI development  
 - **jQuery** — Simplified DOM handling  
-- **C** — Core programming fundamentals  
-- **C++** — Programming & problem-solving  
+- **C / C++** — Programming fundamentals  
 
 ---
 
-## 🎯 Development Focus  
+## Development Focus  
 
 - Writing clean, readable, and maintainable code  
 - Building responsive and user-friendly layouts  
 - Creating smooth animations and transitions  
 - Maintaining UI/UX consistency  
-- Continuous learning and improvement  
+- Continuous learning and skill growth  
 
 ---
 
-## 📚 Learning & Growth  
+## Learning & Growth  
 
 Currently improving:
 - Advanced JavaScript concepts  
