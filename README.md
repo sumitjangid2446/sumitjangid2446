@@ -1,80 +1,79 @@
-<!-- =================================================== -->
-<!--        ELITE PROFESSIONAL GITHUB README             -->
-<!-- =================================================== -->
+<!-- ================================================ -->
+<!--        CLEAN • ELITE GITHUB README                -->
+<!-- ================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=240&section=header&text=Sumit%20Jangid&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Sumit%20Jangid&height=120&fontSize=52" />
 </p>
 
-<h2 align="center">Front-End Web Developer</h2>
-<p align="center"><sub>BCA Student • UI Focused • Growth Driven</sub></p>
+<p align="center">
+  <strong>Front-End Web Developer</strong><br/>
+  <sub>BCA Student • UI/UX Focused • Project Driven</sub>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+Modern+%26+Scalable+UI;HTML+CSS+JavaScript+Expertise;Clean+Code+%7C+Better+UX;Learning+By+Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2600&color=38F8FF&center=true&vCenter=true&width=720&lines=Clean+UI+Development;Responsive+Web+Interfaces;HTML+CSS+JavaScript;Learning+By+Building+Real+Projects" />
 </p>
 
 ---
 
-## 🧠 Professional Summary  
+## Profile  
 
-I’m **Sumit Jangid**, a **BCA 2nd Year student** and a  
-**Front-End Web Developer** who focuses on creating  
-**high-quality, responsive, and user-centric web interfaces**.
+I am **Sumit Jangid**, a **BCA 2nd Year student** and  
+a **front-end web developer** focused on building:
 
-I don’t just build websites —  
-I focus on **structure, performance, and user experience**.
+- Clean & modern user interfaces  
+- Fully responsive web layouts  
+- Smooth, user-friendly interactions  
 
-I strongly believe:
-> _Good UI attracts users, great UX keeps them._
+I value **clarity in code**, **consistency in UI**,  
+and **learning through real implementation**.
 
 ---
 
-## ⚙️ Technical Skills  
+## Technical Skills  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,c,cpp" />
 </p>
 
-**Front-End**
-- HTML5 (Semantic & SEO friendly)
-- CSS3 (Responsive design, animations)
-- JavaScript (DOM, events, logic)
-- Bootstrap 5 (Fast UI development)
-- jQuery (DOM & effects)
+**Frontend**
+- HTML5 — semantic & structured markup  
+- CSS3 — responsive design & animations  
+- JavaScript — DOM, events, logic  
+- Bootstrap 5 — mobile-first UI  
+- jQuery — simplified DOM handling  
 
-**Programming Foundation**
-- C (Core logic & memory concepts)
-- C++ (Problem-solving mindset)
-
----
-
-## 🧩 What I Actually Do  
-
-✔ Design clean UI layouts  
-✔ Convert ideas into responsive pages  
-✔ Build interactive components  
-✔ Improve user experience  
-✔ Learn → Apply → Improve  
-
-_No copy-paste developer mindset._
+**Programming Fundamentals**
+- C — core programming concepts  
+- C++ — logic & problem-solving  
 
 ---
 
-## 📈 Growth & Learning  
+## Development Approach  
 
-Currently improving:
-- Advanced JavaScript logic  
-- Modern CSS (Flexbox, Grid, animations)  
-- UI/UX design consistency  
+✔ Clean and readable code  
+✔ Mobile-first design thinking  
+✔ UI consistency & usability  
+✔ Performance-aware layouts  
+✔ Continuous improvement  
+
+---
+
+## Currently Improving  
+
+- Advanced JavaScript  
+- Modern CSS layouts (Flexbox, Grid)  
+- UI/UX best practices  
 - Real-world project structure  
 - GitHub & version control workflow  
 
 ---
 
-## 🧭 Developer Philosophy  
+## Principle  
 
-> **“Code should be simple, readable, and purposeful.”**
+> **“Simplicity is the soul of efficient code.”**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,100:020024&height=100&section=footer&text=Build+Clean+UI+•+Write+Better+Code+•+Grow+Daily&fontSize=22&fontColor=00E5FF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&section=footer&text=Build+Clean+•+Think+Clear+•+Grow+Daily&fontSize=20&fontColor=38F8FF" />
 </p>
