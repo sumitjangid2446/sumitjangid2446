@@ -17,10 +17,7 @@ clean UI, and daily GitHub consistency.
 
 ---
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjangid2446&layout=compact&theme=radical)  
+# 🔥 My GitHub Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitjangid2446&theme=radical)
 
