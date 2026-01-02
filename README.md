@@ -16,13 +16,13 @@ not just watching tutorials. My focus is **strong JavaScript fundamentals**,
 clean UI, and daily GitHub consistency.
 
 ---
-## 🔥 GitHub Performance
+## 📊 GitHub Stats
 
-<p align="center">
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitjangid2446&theme=dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitjangid2446&theme=dark" height="170"/>
-</p>
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjangid2446&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitjangid2446&theme=radical)  
 
 ---
 
