@@ -18,9 +18,10 @@ clean UI, and daily GitHub consistency.
 ---
 # 📊 My GitHub Stats
 
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjangid2446&layout=compact&theme=tokyonight)
-
+![Repos](https://img.shields.io/github/repos/sumitjangid2446?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/sumitjangid2446?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/sumitjangid2446?style=for-the-badge)
+![Gists](https://img.shields.io/github/gists/sumitjangid2446?style=for-the-badge)
 
 
 ---
