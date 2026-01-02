@@ -1,61 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">Frontend Developer | JavaScript Learner 🚀</h3>
+<h1 align="center">🔥 Sumit Jangid 🔥</h1>
+<h3 align="center">Frontend Developer | JavaScript Focused | Consistency Driven 🚀</h3>
 
 <p align="center">
-  Passionate about building clean UI, learning JavaScript deeply, and creating real-world projects.
+  Building clean UI, mastering JavaScript, and maintaining daily GitHub discipline.
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Performance
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumitjangid2446&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sumitjangid2446&theme=dark&hide_border=true&fire=FF6A00&ring=FF6A00&currStreakLabel=FF6A00" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=dark&hide_border=true&icon_color=FF6A00&title_color=FF6A00" height="170"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjangid2446&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🛠️ Skills
-- HTML  
-- CSS  
-- JavaScript  
+## 💻 Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript (Core + DOM)  
 - Git & GitHub  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced JavaScript  
-- DOM & Real Projects  
-- Clean UI Design  
+## 🌱 Currently Improving
+- Advanced JavaScript Logic  
+- Real-World Projects  
+- Clean & Scalable UI Design  
 
 ---
 
-## 🎯 Goals
-- Become a strong Frontend Developer  
-- Build real-world JavaScript projects  
-- Maintain daily GitHub consistency  
+## 🎯 Developer Mindset
+- Code daily, even if small  
+- Learn by building, not watching  
+- Consistency > Motivation  
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/sumitjangid2446  
+## 📫 Connect
+- GitHub → https://github.com/sumitjangid2446  
 
 ---
 
-⭐ *Keep Learning | Keep Coding | Never Give Up*
+<p align="center">
+  ⭐ <b>Discipline. Consistency. Growth.</b> ⭐
+</p>
