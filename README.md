@@ -16,20 +16,6 @@ not just watching tutorials. My focus is **strong JavaScript fundamentals**,
 clean UI, and daily GitHub consistency.
 
 ---
-## 📈 GitHub Activity
-
-
-
-<div align="center">
-  <img src="https://img.shields.io/github/repos/sumitjangid2446?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/sumitjangid2446?style=for-the-badge&color=green" />
-  <img src="https://img.shields.io/github/stars/sumitjangid2446?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/gists/sumitjangid2446?style=for-the-badge&color=red" />
-</div>
-
-
-
----
 
 ## 🛠️ Skills & What I’ve Done
 
@@ -111,7 +97,9 @@ clean UI, and daily GitHub consistency.
 ---
 
 ## 📫 Connect With Me
-🔗 GitHub: https://github.com/sumitjangid2446  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sumitjangid2446.sumitjangid2446)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumitjangid2446)
+
 
 ---
 
