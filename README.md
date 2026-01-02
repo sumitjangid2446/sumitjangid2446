@@ -112,9 +112,10 @@ clean UI, and daily GitHub consistency.
 ---
 <div align="right">
 
-<div style="border-left:4px solid #4CAF50; border-radius:5px; padding:10px 15px; background-color:#f9f9f9; display:inline-block; font-style:italic; color:#333;">
+<div style="border-left:4px solid #4CAF50; border-radius:5px; padding:10px 15px; background-color:#f9f9f9; display:inline-block; font-style:italic; color:orange;">
   "First, solve the problem. Then, write the code." <br>
   <strong>- John Johnson</strong>
 </div>
 
 </div>
+
