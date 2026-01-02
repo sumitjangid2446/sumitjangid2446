@@ -16,12 +16,10 @@ not just watching tutorials. My focus is **strong JavaScript fundamentals**,
 clean UI, and daily GitHub consistency.
 
 ---
-# 📊 My GitHub Stats
+## 📈 GitHub Activity
 
-![Repos](https://img.shields.io/github/repos/sumitjangid2446?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/sumitjangid2446?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/sumitjangid2446?style=for-the-badge)
-![Gists](https://img.shields.io/github/gists/sumitjangid2446?style=for-the-badge)
+![Sumit's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sumitjangid2446&theme=react-dark&hide_border=true)
+
 
 
 ---
