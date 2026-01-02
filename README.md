@@ -19,7 +19,10 @@ clean UI, and daily GitHub consistency.
 ## 📊 GitHub Stats
 # 🔥 My GitHub Contribution Streak
 
-![Streak](https://img.shields.io/badge/Commit_Streak-🔥7_Days-red?style=for-the-badge)
+# 📈 My GitHub Contributions
+
+![GitHub Contributions](https://ghchart.rshah.org/sumitjangid2446)
+
 
 
 ---
