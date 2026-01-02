@@ -95,7 +95,7 @@ clean UI, and daily GitHub consistency.
 - Build real-world, practical projects  
 
 ---
-## 💌 Connect with Me
+## 🔄Connect with Me
 
 <p>
   <a href="https://github.com/sumitjangid2446" target="_blank">
