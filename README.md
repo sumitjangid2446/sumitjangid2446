@@ -18,7 +18,14 @@ clean UI, and daily GitHub consistency.
 ---
 ## 📈 GitHub Activity
 
-![Sumit's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sumitjangid2446&theme=react-dark&hide_border=true)
+
+
+<div align="center">
+  <img src="https://img.shields.io/github/repos/sumitjangid2446?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/sumitjangid2446?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/stars/sumitjangid2446?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/gists/sumitjangid2446?style=for-the-badge&color=red" />
+</div>
 
 
 
