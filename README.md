@@ -97,7 +97,7 @@ clean UI, and daily GitHub consistency.
 ---
 ## 💌 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://github.com/sumitjangid2446" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -112,8 +112,9 @@ clean UI, and daily GitHub consistency.
 ---
 
 <p align="center">
-  🔥 <b>Learn Daily • Build Projects • Stay Consistent</b> 🔥
+  <em>"Code, Create & Conquer 💻🚀"<br>
+  "Build the future, one commit at a time 🌟"</em>
 </p>
 
-<!-- 🔥 FOOTER -->
+
 
