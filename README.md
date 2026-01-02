@@ -17,8 +17,7 @@ clean UI, and daily GitHub consistency.
 
 ---
 ## 📊 GitHub Stats
-
-![GitHub Contributions](https://ghchart.rshah.org/sumitjangid2446)
+![GitHub Streak](https://github.com/sumitjangid2446/sumit-streak/raw/main/streak.svg)
 
 
 ---
