@@ -17,10 +17,8 @@ clean UI, and daily GitHub consistency.
 
 ---
 ## 📊 GitHub Stats
-# 🔥 My GitHub Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sumitjangid2446&theme=radical)
-
+![GitHub Contributions](https://ghchart.rshah.org/sumitjangid2446)
 
 
 ---
