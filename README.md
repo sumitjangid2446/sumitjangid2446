@@ -18,11 +18,8 @@ clean UI, and daily GitHub consistency.
 ---
 ## 📊 GitHub Stats
 
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=radical)  
+https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=radical
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjangid2446&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitjangid2446&theme=radical)  
 
 ---
 
