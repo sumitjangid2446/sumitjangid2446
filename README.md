@@ -17,12 +17,13 @@ clean UI, and daily GitHub consistency.
 
 ---
 
-## 🔥 GitHub Performance (ONE LINE)
+## 🔥 GitHub Performance
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumitjangid2446&theme=dark&hide_border=true&fire=FF6A00&ring=FF6A00" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=dark&hide_border=true&title_color=FF6A00&icon_color=FF6A00" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitjangid2446&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=dark&hide_border=true" height="170"/>
 </p>
+
 
 ---
 
@@ -115,6 +116,4 @@ clean UI, and daily GitHub consistency.
 </p>
 
 <!-- 🔥 FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6A00&height=120&section=footer" />
-</p>
+
