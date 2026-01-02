@@ -111,10 +111,16 @@ clean UI, and daily GitHub consistency.
 
 ---
 
-<p align="center">
-  <em>"Code, Create & Conquer 💻🚀"<br>
-  "Build the future, one commit at a time 🌟"</em>
-</p>
+<div align="right">
+
+<div style="border:2px solid #4CAF50; border-radius:10px; padding:10px 20px; background-color:#f0f0f0; display:inline-block;">
+  <p style="margin:0; font-style:italic; color:#111;">
+    "Code, Create & Conquer 💻🚀"<br>
+    "Build the future, one commit at a time 🌟"
+  </p>
+</div>
+
+</div>
 
 
 
