@@ -58,13 +58,13 @@ clean UI, and daily GitHub consistency.
 ---
 
 ### 💻 Programming Languages
-
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28"/> <b>C</b><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="28"/>
+  <b>C</b><br/>
   • Basic programming concepts<br/>
   • Loops, arrays, functions
 </p>
-
+ ---
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28"/> <b>C++</b><br/>
   • Object-Oriented Programming basics<br/>
@@ -82,14 +82,10 @@ clean UI, and daily GitHub consistency.
 ### 🔧 Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/> <b>Git</b><br/>
-  • Version control, commits, branching basics
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/> <b>GitHub</b><br/>
-  • Hosting projects & README documentation<br/>
-  • Daily practice & streak maintenance
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" height="28"/>
+  <b>GitHub</b><br/>
+  • Project hosting & documentation<br/>
+  • Daily commits & streak maintenance
 </p>
 
 ---
