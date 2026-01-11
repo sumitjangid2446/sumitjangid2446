@@ -100,7 +100,7 @@ clean UI, and daily GitHub consistency.
   <a href="https://linkedin.com/in/sumitjangid2446" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sumitjangid@gmail.com" target="_blank">
+  <a href="mailto:sumitjangid2446@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
