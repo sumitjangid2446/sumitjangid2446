@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=750&lines=Learning%2C+Building%2C+Improving+Everyday;Code+Practice+Every+Single+Day;Growing+One+Project+at+a+Time" />
 </p>
 
----
 
 
 ---
@@ -52,14 +51,13 @@ clean UI, and daily GitHub consistency.
 ---
 
 ### 💻 Programming Languages
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="28"/>
   <b>C</b><br/>
   • Basic programming concepts<br/>
   • Loops, arrays, functions
 </p>
-
+ ---
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28"/> <b>C++</b><br/>
   • Object-Oriented Programming basics<br/>
@@ -84,10 +82,6 @@ clean UI, and daily GitHub consistency.
 </p>
 
 ---
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true)
-
----
 ---
 
 ## 🎯 Goals
@@ -97,7 +91,7 @@ clean UI, and daily GitHub consistency.
 
 ---
 
-## 🔄 Connect with Me
+## 🔄Connect with Me
 
 <p>
   <a href="https://github.com/sumitjangid2446" target="_blank">
@@ -112,10 +106,12 @@ clean UI, and daily GitHub consistency.
 </p>
 
 ---
-
 <div align="right">
-  <div style="border-left:4px solid #4CAF50; border-radius:5px; padding:10px 15px; background-color:#f9f9f9; display:inline-block; font-style:italic; color:orange;">
-    "First, solve the problem. Then, write the code." <br>
-    <strong>- John Johnson</strong>
-  </div>
+
+<div style="border-left:4px solid #4CAF50; border-radius:5px; padding:10px 15px; background-color:#f9f9f9; display:inline-block; font-style:italic; color:orange;">
+  "First, solve the problem. Then, write the code." <br>
+  <strong>- John Johnson</strong>
 </div>
+
+</div>
+
