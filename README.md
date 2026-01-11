@@ -91,13 +91,6 @@ clean UI, and daily GitHub consistency.
 
 ---
 
----
-## Github Stats
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=radical)
-
-
----
-
 ## 🔄Connect with Me
 
 <p>
