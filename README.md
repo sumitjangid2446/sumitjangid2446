@@ -5,8 +5,9 @@
 
 <!-- ✨ TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=750&lines=Frontend+Developer;JavaScript+Focused+Learner;Building+Projects+Daily;Consistency+Over+Motivation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=750&lines=Learning%2C+Building%2C+Improving+Everyday" />
 </p>
+
 
 ---
 
