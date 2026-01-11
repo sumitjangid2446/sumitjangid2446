@@ -82,13 +82,6 @@ clean UI, and daily GitHub consistency.
 </p>
 
 ---
-
-## 🚀 Projects Focus
-- JavaScript practice & mini projects  
-- DOM-based interactive pages  
-- Animated & stylish UI projects  
-- Multi-page creative websites  
-
 ---
 
 ## 🎯 Goals
@@ -96,6 +89,12 @@ clean UI, and daily GitHub consistency.
 - Master JavaScript deeply  
 - Build real-world, practical projects  
 
+---
+<h2 align="left">📊 GitHub Stats:</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=dark&hide_border=false&icon_color=FF9800&title_color=FF9800&text_color=ffffff" />
+</p>
 ---
 ## 🔄Connect with Me
 
