@@ -90,6 +90,10 @@ clean UI, and daily GitHub consistency.
 - Build real-world, practical projects  
 
 ---
+---
+## Github Stats
+![Sumit GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&hide=contribs,prs)
+---
 
 ## 🔄Connect with Me
 
