@@ -90,11 +90,10 @@ clean UI, and daily GitHub consistency.
 - Build real-world, practical projects  
 
 ---
-<h2 align="left">📊 GitHub Stats:</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=dark&hide_border=false&icon_color=FF9800&title_color=FF9800&text_color=ffffff" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=dark)
+
 ---
 ## 🔄Connect with Me
 
