@@ -83,9 +83,9 @@ clean UI, and daily GitHub consistency.
   • Daily commits & streak maintenance
 </p>
 
---- 
-## Github Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/sumitjangid2446?theme=dark&font=milonga)
+---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true)
 
 ---
 ---
