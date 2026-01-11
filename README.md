@@ -85,8 +85,7 @@ clean UI, and daily GitHub consistency.
 
 --- 
 ## Github Stats
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/sumitjangid2446?font=milonga)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/sumitjangid2446?theme=dark&font=milonga)
 
 ---
 ---
