@@ -11,12 +11,6 @@
 ---
 
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitjangid2446&show_icons=true&theme=dark)
-
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -89,6 +83,12 @@ clean UI, and daily GitHub consistency.
   • Daily commits & streak maintenance
 </p>
 
+--- 
+## Github Stats
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/sumitjangid2446?font=milonga)
+
+
+---
 ---
 
 ## 🎯 Goals
