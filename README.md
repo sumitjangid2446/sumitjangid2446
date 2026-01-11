@@ -57,7 +57,7 @@ clean UI, and daily GitHub consistency.
   • Basic programming concepts<br/>
   • Loops, arrays, functions
 </p>
- ---
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28"/> <b>C++</b><br/>
   • Object-Oriented Programming basics<br/>
